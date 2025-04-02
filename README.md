@@ -4,7 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-ChatGPT said:
 📰 News App - Stay Informed & Entertained! 🚀
 I have developed a feature-rich News App with a beautiful UI, smooth animations, and a seamless user experience. This app is built using Flutter and integrates Appwrite for authentication. With Lottie animations, it provides an engaging and modern interface.
 
